@@ -22,22 +22,23 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
 1.**Instala las dependencias de PHP:**
 ```bash
 composer install
+```
 
 2.**Ejecuta las migraciones:**
 ```bash
 php artisan migrate
-
+```
 3.**Instala las dependencias de JavaScript:**
 ```bash
 npm install
-
+```
 4.**Instala npm-design-icon:**
 ```bash
 npm install npm-design-icon
-
+```
 5.**Para iniciar el servidor de desarrollo, usa el siguiente comando:**
 ```bash
 npm run dev
 php artisan serve
-
+```
 **Luego, abre tu navegador y accede a http://localhost:8000.**
