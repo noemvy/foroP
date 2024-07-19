@@ -26,7 +26,7 @@ const showingNavigationDropdown = ref(false);
 
                             <!-- Enlaces de Navegación -->
                             <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
-                                <img src="/pics/nexus-comunitario-favicon-black.png" alt="Logo de Nexus Comunitario">
+                                <img src="pics/nexus-comunitario-favicon-white.png" alt="Logo de Nexus Comunitario">
                                 <NavLink :href="route('dashboard')" :active="route().current('dashboard')" class="text-xl font-extrabold">
                                     NEXUS COMUNITARIO
                                 </NavLink>
