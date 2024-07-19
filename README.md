@@ -36,4 +36,5 @@ npm install npm-design-icon
 npm run dev
 php artisan serve
 ```
-
+## Carpetas Importantes
+[Carpeta JS])(/resources/js)
