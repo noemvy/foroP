@@ -37,4 +37,4 @@ npm run dev
 php artisan serve
 ```
 ## Estructura del Proyecto
-- [resources/js/layouts] (Contiene los layouts del foro)
+- [Layouts](resources/js/layouts)(Contiene los layouts del foro)
