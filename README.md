@@ -36,4 +36,4 @@ npm install npm-design-icon
 npm run dev
 php artisan serve
 ```
-**Luego, abre tu navegador y accede a http://localhost:8000.**
+
