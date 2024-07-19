@@ -25,7 +25,8 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
-Instala las dependencias de PHP:
+   
+1. **Instala las dependencias de PHP:**
 ```bash
 composer install
 
