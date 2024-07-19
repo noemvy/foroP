@@ -36,4 +36,12 @@ npm install npm-design-icon
 npm run dev
 php artisan serve
 ```
-
+## Estructura del Proyecto
+- [Controladores](app/Http/Controllers)(Contiene los controladores para el perfil, publicaces y encuestas del proyecto)
+- [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
+- [Pages](resources/js/Pages)(Contiene las paginas principales que se muestran en el foro)
+- [Pics](public/pics)(Contiene las imagenes para los logos del foro)
+- [Routes](routes/web.php)(Contiene las rutas principales del foro)
+- [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
+- [Migraciones](database/migrations)(Contiene todas las migraciones del foro)
+  
