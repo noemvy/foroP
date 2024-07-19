@@ -37,7 +37,7 @@ npm run dev
 php artisan serve
 ```
 ## Estructura del Proyecto
-- [Controladores](App/Http/Controllers)(Contiene los controladores para el perfil, publicaces y encuestas del proyecto)
+- [Controladores](app/Http/Controllers)(Contiene los controladores para el perfil, publicaces y encuestas del proyecto)
 - [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
 - [Pages](resources/js/Pages)(Contiene las paginas principales que se muestran en el foro)
 - [Pics](public/pics)(Contiene las imagenes para los logos del foro)
