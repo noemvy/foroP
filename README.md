@@ -43,3 +43,5 @@ php artisan serve
 - [Pics](public/pics)(Contiene las imagenes para los logos del foro)
 - [Routes](routes/web.php)(Contiene las rutas principales del foro)
 - [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
+- [Migraciones](database/migrations)(Contiene todas las migraciones del foro)
+  
