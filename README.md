@@ -25,14 +25,15 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
    ```bash
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
-   
-1. **Instala las dependencias de PHP:**
+
+2.**Instala las dependencias de PHP:**
 ```bash
 composer install
 
-Configura el archivo de entorno:
+3.**Configura el archivo de entorno:**
 ```bash
-Ejecuta las migraciones:
+
+4.**Ejecuta las migraciones:**
 Asegúrate de que tu base de datos esté configurada y ejecuta las migraciones para crear las tablas necesarias:
 ```bash
 php artisan migrate
