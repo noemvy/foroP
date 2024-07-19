@@ -47,7 +47,6 @@ Route::middleware('auth')->group(function () {
 
 Route::middleware('auth')->group(function () {
     Route::get('/encuestas', [EncuestasController::class, 'index'])->name('encuestas');
-    Route::post('/encuestas', [EncuestasController::class, 'store'])->name('encuestas.store');
 });
 
 
