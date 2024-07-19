@@ -23,11 +23,6 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
 ```bash
 composer install
 ```
-
-2.**Ejecuta las migraciones:**
-```bash
-php artisan migrate
-```
 3.**Instala las dependencias de JavaScript:**
 ```bash
 npm install
