@@ -19,37 +19,25 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
 - [MySQL](https://www.mysql.com/) (o cualquier otro sistema de gestión de bases de datos soportado por Laravel)
 
 ## Instalación
-
-1. **Clona el repositorio:**
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
-
-2.**Instala las dependencias de PHP:**
+1.**Instala las dependencias de PHP:**
 ```bash
 composer install
 
-3.**Configura el archivo de entorno:**
-```bash
-
-4.**Ejecuta las migraciones:**
-Asegúrate de que tu base de datos esté configurada y ejecuta las migraciones para crear las tablas necesarias:
+2.**Ejecuta las migraciones:**
 ```bash
 php artisan migrate
 
-Instala las dependencias de JavaScript:
+3.**Instala las dependencias de JavaScript:**
 ```bash
 npm install
 
-Instala npm-design-icon:
+4.**Instala npm-design-icon:**
 ```bash
 npm install npm-design-icon
 
-
-Para iniciar el servidor de desarrollo, usa el siguiente comando:
+5.**Para iniciar el servidor de desarrollo, usa el siguiente comando:**
 ```bash
 npm run dev
 php artisan serve
 
-Luego, abre tu navegador y accede a http://localhost:8000.
+**Luego, abre tu navegador y accede a http://localhost:8000.**
