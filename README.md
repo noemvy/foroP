@@ -36,4 +36,5 @@ npm install npm-design-icon
 npm run dev
 php artisan serve
 ```
-
+## Estructura del Proyecto
+- [resources/js/layouts] (Contiene los layouts del foro)
