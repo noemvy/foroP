@@ -27,49 +27,25 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
    cd tu_repositorio
 Instala las dependencias de PHP:
 
-bash
-Copiar código
+
 composer install
+
 Configura el archivo de entorno:
 
-Copia el archivo .env.example a .env:
-
-bash
-Copiar código
-cp .env.example .env
-Luego, abre el archivo .env y ajusta las configuraciones según tus necesidades, como la conexión a la base de datos.
-
-Genera la clave de aplicación:
-
-bash
-Copiar código
-php artisan key:generate
 Ejecuta las migraciones:
 
 Asegúrate de que tu base de datos esté configurada y ejecuta las migraciones para crear las tablas necesarias:
 
-bash
-Copiar código
+
 php artisan migrate
 Instala las dependencias de JavaScript:
-
-bash
-Copiar código
 npm install
+
 Instala npm-design-icon:
-
-bash
-Copiar código
 npm install npm-design-icon
-Compila los assets:
 
-bash
-Copiar código
-npm run dev
-Uso
+
 Para iniciar el servidor de desarrollo, usa el siguiente comando:
-
-bash
-Copiar código
+npm run dev
 php artisan serve
 Luego, abre tu navegador y accede a http://localhost:8000.
