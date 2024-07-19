@@ -26,26 +26,28 @@ Este proyecto utiliza **Laravel**, **Vue.js** e **Inertia.js** para ofrecer una 
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio
 Instala las dependencias de PHP:
-
-
+```bash
 composer install
 
 Configura el archivo de entorno:
-
+```bash
 Ejecuta las migraciones:
-
 Asegúrate de que tu base de datos esté configurada y ejecuta las migraciones para crear las tablas necesarias:
-
-
+```bash
 php artisan migrate
+
 Instala las dependencias de JavaScript:
+```bash
 npm install
 
 Instala npm-design-icon:
+```bash
 npm install npm-design-icon
 
 
 Para iniciar el servidor de desarrollo, usa el siguiente comando:
+```bash
 npm run dev
 php artisan serve
+
 Luego, abre tu navegador y accede a http://localhost:8000.
