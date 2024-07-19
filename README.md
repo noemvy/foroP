@@ -36,11 +36,4 @@ npm install npm-design-icon
 npm run dev
 php artisan serve
 ```
-## Estructura del Proyecto
-Aquí hay una descripción de algunas carpetas y archivos importantes en el proyecto Laravel:
-
-app/
-Esta carpeta contiene el código central de la aplicación, incluyendo:
-
-Http/: Controladores, Middleware, y Requests.
 
