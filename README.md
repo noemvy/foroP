@@ -39,9 +39,16 @@ php artisan serve
 ## Estructura del Proyecto
 - [Controladores](app/Http/Controllers)(Contiene los controladores para el perfil, publicaces y encuestas del proyecto)
 - [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
+
+
 - [Pages](resources/js/Pages)(Contiene las paginas principales que se muestran en el foro)
 - [Pics](public/pics)(Contiene las imagenes para los logos del foro)
 - [Routes](routes/web.php)(Contiene las rutas principales del foro)
+
+
+## Imagenes de referencia 
+![image](https://github.com/user-attachments/assets/b23334c1-ee60-4cac-8bd2-a6b317d967c4)
+
 - [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
 - [Migraciones](database/migrations)(Contiene todas las migraciones del foro)
   
