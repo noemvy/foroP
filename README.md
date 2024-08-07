@@ -56,3 +56,7 @@ php artisan serve
 
   *Feed del foro*
 ![image](https://github.com/user-attachments/assets/b23334c1-ee60-4cac-8bd2-a6b317d967c4)
+
+*Sección de encuestas*
+![image](https://github.com/user-attachments/assets/0c5c901d-54bb-4b4c-a3c1-e58bd02f5810)
+
