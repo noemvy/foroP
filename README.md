@@ -45,16 +45,16 @@ php artisan serve
 - [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
 
 
-- [Pages](resources/js/Pages)(Contiene las paginas principales que se muestran en el foro)
-- [Pics](public/pics)(Contiene las imagenes para los logos del foro)
-- [Routes](routes/web.php)(Contiene las rutas principales del foro)
-- [Layouts](resources/js/Layouts)(Contiene los layouts del foro)
-- [Migraciones](database/migrations)(Contiene todas las migraciones del foro)
+- [Pages](resources/js/Pages) Contiene las paginas principales que se muestran en el foro
+- [Pics](public/pics) Contiene las imagenes para los logos del foro
+- [Routes](routes/web.php) Contiene las rutas principales del foro
+- [Layouts](resources/js/Layouts) Contiene los layouts del foro
+- [Migraciones](database/migrations) Contiene todas las migraciones del foro
 
 
   ## Imagenes de referencia
   *Página de inicio del foro*
-  ![image](https://github.com/user-attachments/assets/1435f389-9879-4d55-ac24-8ea32d2706fc)
+![image](https://github.com/user-attachments/assets/1435f389-9879-4d55-ac24-8ea32d2706fc)
 
   *Feed del foro*
 ![image](https://github.com/user-attachments/assets/b23334c1-ee60-4cac-8bd2-a6b317d967c4)
