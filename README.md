@@ -1,4 +1,8 @@
-# Proyecto Laravel con Vue e Inertia
+# FORO PARA COMUNIDADES 
+**Este proyecto es un foro interactivo diseñado para fomentar la participación comunitaria en la identificación y resolución de problemáticas. Los usuarios pueden:**
+- **Publicar problemáticas:** Cualquier miembro puede crear publicaciones para plantear desafíos o temas que afectan a la comunidad.
+- **Participar en encuestas:** Se pueden crear encuestas relacionadas con las problemáticas, donde los miembros de la comunidad votan para determinar cuál es la prioridad o la mejor solución.
+- **Mejorar la comunidad:** A través de la interacción en las publicaciones y encuestas, los usuarios colaboran para encontrar soluciones y mejorar las condiciones de la comunidad.
 
 ## Descripción
 
